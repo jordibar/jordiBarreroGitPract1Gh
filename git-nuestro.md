@@ -1,4 +1,5 @@
 #Git nuestro
+##Mucho tendremos que rezar para finalizar este bootcamp con éxito!
 
 <p><em>Git</em> nuestro que estas en los repos<br />
 Comprimidos sean tus <em>commits</em><br />
